@@ -1,0 +1,258 @@
+{
+    "next": "https://5ka.ru/api/v2/special_offers/?page=3&records_per_page=12",
+    "previous": "https://5ka.ru/api/v2/special_offers/?records_per_page=12",
+    "results": [
+        {
+            "id": 11457,
+            "name": "Изделия кондитерские мучные. Пирожные: БАТОНЧИК ГЛАЗИРОВАННЫЙ \"KIDDAY\"ассорти 40 гр",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/4043596.jpg",
+            "plu": 4043596,
+            "promo": {
+                "id": 1165120646,
+                "date_begin": "2021-03-07",
+                "date_end": "2021-04-03",
+                "type": "",
+                "description": "",
+                "kind": "Z011",
+                "expired_at": 14
+            },
+            "current_prices": {
+                "price_reg__min": 24.9,
+                "price_promo__min": 15.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 19207,
+            "name": "Корм консервированный полнорационный Pedigree для взрослых собак миниатюрных пород паштет с говядиной, 80г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/4060059.jpg",
+            "plu": 4060059,
+            "promo": {
+                "id": 1163236921,
+                "date_begin": "2021-02-28",
+                "date_end": "2021-04-03",
+                "type": "",
+                "description": "",
+                "kind": "Z011",
+                "expired_at": 14
+            },
+            "current_prices": {
+                "price_reg__min": 19.99,
+                "price_promo__min": 16.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 19208,
+            "name": "Корм консервированный полнорационный Pedigree для взрослых собак миниатюрных пород паштет с курицей, 80г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/4061858.jpg",
+            "plu": 4061858,
+            "promo": {
+                "id": 1163236921,
+                "date_begin": "2021-02-28",
+                "date_end": "2021-04-03",
+                "type": "",
+                "description": "",
+                "kind": "Z011",
+                "expired_at": 14
+            },
+            "current_prices": {
+                "price_reg__min": 19.99,
+                "price_promo__min": 16.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 19209,
+            "name": "Корм консервированный полнорационный Pedigree для взрослых собак всех пород с говядиной в соусе, 85г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/4066615.jpg",
+            "plu": 4066615,
+            "promo": {
+                "id": 1163236921,
+                "date_begin": "2021-02-28",
+                "date_end": "2021-04-03",
+                "type": "",
+                "description": "",
+                "kind": "Z011",
+                "expired_at": 14
+            },
+            "current_prices": {
+                "price_reg__min": 17.99,
+                "price_promo__min": 16.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 19210,
+            "name": "Корм консервированный полнорационный Pedigree для взрослых собак всех пород с говядиной и ягненком в соусе, 85г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/4066619.jpg",
+            "plu": 4066619,
+            "promo": {
+                "id": 1163236921,
+                "date_begin": "2021-02-28",
+                "date_end": "2021-04-03",
+                "type": "",
+                "description": "",
+                "kind": "Z011",
+                "expired_at": 14
+            },
+            "current_prices": {
+                "price_reg__min": 17.99,
+                "price_promo__min": 16.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 24723,
+            "name": "F.SEN.Корм конс.с инд.в соус.вк.бек.85г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3445962.jpg",
+            "plu": 3445962,
+            "promo": {
+                "id": 1170469325,
+                "date_begin": "2021-03-16",
+                "date_end": "2021-03-22",
+                "type": "",
+                "description": "",
+                "kind": "Z001",
+                "expired_at": 2
+            },
+            "current_prices": {
+                "price_reg__min": 17.5,
+                "price_promo__min": 16.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 24725,
+            "name": "F.SEN.Корм конс.с треск.в соус.с том.85г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3445965.jpg",
+            "plu": 3445965,
+            "promo": {
+                "id": 1170469325,
+                "date_begin": "2021-03-16",
+                "date_end": "2021-03-22",
+                "type": "",
+                "description": "",
+                "kind": "Z001",
+                "expired_at": 2
+            },
+            "current_prices": {
+                "price_reg__min": 17.5,
+                "price_promo__min": 16.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 19718,
+            "name": "DANONE Йогурт 3,3% 110г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3503857.jpg",
+            "plu": 3503857,
+            "promo": {
+                "id": 1163236940,
+                "date_begin": "2021-02-28",
+                "date_end": "2021-04-03",
+                "type": "",
+                "description": "",
+                "kind": "Z011",
+                "expired_at": 14
+            },
+            "current_prices": {
+                "price_reg__min": 19.0,
+                "price_promo__min": 18.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 14936,
+            "name": "ИМУНЕЛЕ Нап.КЛУБ.МОР.к/м с сок.1,5% 100г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3662341.jpg",
+            "plu": 3662341,
+            "promo": {
+                "id": 1169479818,
+                "date_begin": "2021-03-16",
+                "date_end": "2021-03-22",
+                "type": "",
+                "description": "",
+                "kind": "Z001",
+                "expired_at": 2
+            },
+            "current_prices": {
+                "price_reg__min": 24.99,
+                "price_promo__min": 19.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 14948,
+            "name": "\"Bio-Max\" Биойогурт c Персиком обогащенный бифидобактериями и пребиотиком 2.2% 125г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3954720.jpg",
+            "plu": 3954720,
+            "promo": {
+                "id": 1169479818,
+                "date_begin": "2021-03-16",
+                "date_end": "2021-03-22",
+                "type": "",
+                "description": "",
+                "kind": "Z001",
+                "expired_at": 2
+            },
+            "current_prices": {
+                "price_reg__min": 24.99,
+                "price_promo__min": 19.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 14949,
+            "name": "\"Bio-Max\" Биойогурт c Черникой обогащенный бифидобактериями и пребиотиком 2.2% 125г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3954722.jpg",
+            "plu": 3954722,
+            "promo": {
+                "id": 1169479818,
+                "date_begin": "2021-03-16",
+                "date_end": "2021-03-22",
+                "type": "",
+                "description": "",
+                "kind": "Z001",
+                "expired_at": 2
+            },
+            "current_prices": {
+                "price_reg__min": 24.99,
+                "price_promo__min": 19.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 14950,
+            "name": "\"Bio-Max\" Биойогурт «Классический», обогащенный бифидобактериями и пребиотиком; 2.7%; 125г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3954723.jpg",
+            "plu": 3954723,
+            "promo": {
+                "id": 1169479818,
+                "date_begin": "2021-03-16",
+                "date_end": "2021-03-22",
+                "type": "",
+                "description": "",
+                "kind": "Z001",
+                "expired_at": 2
+            },
+            "current_prices": {
+                "price_reg__min": 24.19,
+                "price_promo__min": 19.99
+            },
+            "store_name": null
+        }
+    ]
+}
